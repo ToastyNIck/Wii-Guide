@@ -13,11 +13,10 @@ Ce guide est seulement pour les Wii originales, et qui ont la dernière version 
 Si vus voulez installer des homebrews sur une Wii U, [suivez ce tutoriel](https://wiiu.hacks.guide/vwii-modding).
 {: .notice--warning}
 
-<table>
-  <tr>
-    <td>
-	  <a href="letterbomb">LetterBomb</a><br>
-	  <a href="flashhax">FlashHax</a>
-	  </td>
-  </tr>
-</table>
+|   Features Listing    |     [str2hax](str2hax)     |   [FlashHax](flashhax)    |  [LetterBomb](letterbomb)  |         [Bluebomb](bluebomb)           |
+|-----------------------|----------------------------|---------------------------|----------------------------|----------------------------------------|
+| Description           | Wii EULA Exploit           | Internet Channel exploit  | Wii Message Board exploit  | Broadcom's Bluetooth stack exploit     |
+| Internet Obligatoire     | Oui (DNS change required)  | Oui                       | Non                        | Non                                     |
+| Périphérique de stockage        | None                       | None                      | SD card required           | USB (top slot)                         |
+| Device Compatibility  | Wii                        | Wii                       | Wii on 4.3                 | Non Japanese or Korean Wii & Wii Mini  |
+| Autre exigence    | None                       | Chaîne Internet          | None                       | Linux Machine & Bluetooth              |
