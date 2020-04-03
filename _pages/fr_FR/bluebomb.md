@@ -49,3 +49,6 @@ Si le HackMii Installer ne s'ouvre pas et la Wii se bloque (vous ne pouvez plus 
 
 [Continuer avec l'installation de la Chaîne Homebrew](hbc)
 {: .notice--info}
+
+####Installation de cIOS
+cIOS est important si tu veux jouer les jeux dans
