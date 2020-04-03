@@ -13,7 +13,7 @@ Ce guide est seulement pour les Wii originales, et qui ont la dernière version 
 Si vus voulez installer des homebrews sur une Wii U, [suivez ce tutoriel](https://wiiu.hacks.guide/vwii-modding).
 {: .notice--warning}
 
-|   Features Listing    |     [str2hax](str2hax)     |   [FlashHax](flashhax)    |  [LetterBomb](letterbomb)  |         [Bluebomb](bluebomb)           |
+|   Liste des fonctionnalités   |     [str2hax](str2hax)     |   [FlashHax](flashhax)    |  [LetterBomb](letterbomb)  |         [Bluebomb](bluebomb)           |
 |-----------------------|----------------------------|---------------------------|----------------------------|----------------------------------------|
 | Description           | Wii EULA Exploit           | Chaîne Internet exploit  | Tableau des messages Wii exploit  | Broadcom's Bluetooth stack exploit     |
 | Internet Obligatoire     | Oui (Modification DNS)  | Oui                       | Non                        | Non                                     |
