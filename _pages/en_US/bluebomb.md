@@ -71,7 +71,7 @@ Notice that your version number ends with a letter: U for American, E for Europe
 
 12. You must structure your next command according to the following diagram:
 
-[bb command](/images/Wii/bb_command.png)
+![bb command](/images/Wii/bb_command.png)
 
 In the blue part insert your computers architecture from this list:
 	x86 for x86 systems
