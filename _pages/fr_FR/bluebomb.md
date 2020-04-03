@@ -33,6 +33,8 @@ Cet exploit ne fonctionnera pas sur le vWii d'une Wii U. Veuillez utiliser [un a
 Si tu acheter ton Wii dans les location en Canada, États Unis, Japon, et Corée ton Wii Region est NTSC
 Si tu acheter ton Wii dans les pays Européen 
 Si vous n'êtes pas sûr, accédez aux paramètres Wii
+[Paramètres de wii](images/Wii/Wii-Version-FR.png)
+
 #### Instructions
 
 1. Telecharge les fichiers de (BootMii)[https://bootmii.org/download/]
