@@ -35,6 +35,7 @@ Si tu acheter ton Wii dans les pays Européen
 Si vous n'êtes pas sûr, accédez aux paramètres Wii
 ![Paramètres de wii](/images/Wii/Wii-Version-FR.png)
 En haut à gauche, notez que votre numéro de version se termine par une lettre: U pour les consoles américaines, E pour les européennes, J pour les consoles japonaises et K pour les coréennes.
+
 ##Les Letter
 U, J, K sont les consoles NTSC
 E sont les consoles européennes
