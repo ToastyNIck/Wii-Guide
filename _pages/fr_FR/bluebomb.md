@@ -30,8 +30,10 @@ Cet exploit ne fonctionnera pas sur le vWii d'une Wii U. Veuillez utiliser [un a
 - Une console Wii ou Wii Mini (évidemment)
 
 #### Que savoir en premier
-Si tu acheter ton Wii dans les location en Canada, États Unis, Japon, et Corée ton Wii Region est NTSC
-Si tu acheter ton Wii dans les pays Européen 
+Si tu acheter ton Wii dans les location en Canada, États Unis, Japon, et Corée ton Wii Region est NTSC.
+
+Si tu acheter ton Wii dans les pays Européen.
+
 Si vous n'êtes pas sûr, accédez aux paramètres Wii
 ![Paramètres de wii](/images/Wii/Wii-Version-FR.png)
 En haut à gauche, notez que votre numéro de version se termine par une lettre: U pour les consoles américaines, E pour les européennes, J pour les consoles japonaises et K pour les coréennes.
@@ -50,5 +52,5 @@ Si le HackMii Installer ne s'ouvre pas et la Wii se bloque (vous ne pouvez plus 
 [Continuer avec l'installation de la Chaîne Homebrew](hbc)
 {: .notice--info}
 
-####Installation de cIOS
+#### Installation de cIOS
 cIOS est important si tu veux jouer les jeux dans
