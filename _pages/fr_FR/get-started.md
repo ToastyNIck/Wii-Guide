@@ -18,5 +18,5 @@ Si vus voulez installer des homebrews sur une Wii U, [suivez ce tutoriel](https:
 | Description           | Wii EULA Exploit           | Chaîne Internet exploit  | Tableau des messages Wii exploit  | Broadcom's Bluetooth stack exploit     |
 | Internet Obligatoire     | Oui (Modification DNS)  | Oui                       | Non                        | Non                                     |
 | Périphérique de stockage        | None                       | None                      | SD card required           | USB (top slot)                         |
-| Device Compatibility  | Wii                        | Wii                       | Wii sur Version 4.3                 | Non Japanese or Korean Wii & Wii Mini  |
+| Compatibilité   | Wii                        | Wii                       | Wii sur Version 4.3                 | Wii et Le Wii Mini  |
 | Autre exigence    | None                       | Chaîne Internet          | None                       | Linux Machine & Bluetooth              |
