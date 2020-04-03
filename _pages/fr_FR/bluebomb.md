@@ -4,6 +4,7 @@ title: "Bluebomb"
 {% include toc title="Sommaire" %}
 
 ![BlueBomb](/images/bluebomb.png)
+
 Bluebomb est un exploit fait par [FullMetal5] (https://github.com/Fullmetal5/bluebomb/releases) destiné à la Wii Mini Modding qui tire parti d'un exploit de la pile Bluetooth Broadcom à l'intérieur de la console. C'est le seul exploit qui fonctionne sur la Wii Mini, mais il peut également être utilisé sur la Wii d'origine. Il peut également être utilisé comme récupération de brique au cas où vous n'auriez pas installé Priiloader et / ou BootMii.
 
 Pour la vWii et la Wii d'origine de la Wii U, nous vous recommandons d'utiliser [un autre exploit] (/ get-started) à la place si vous avez l'intention d'installer Homebrew Launcher et / ou BootMii
