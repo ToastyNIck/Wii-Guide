@@ -15,8 +15,8 @@ Si vus voulez installer des homebrews sur une Wii U, [suivez ce tutoriel](https:
 
 |   Features Listing    |     [str2hax](str2hax)     |   [FlashHax](flashhax)    |  [LetterBomb](letterbomb)  |         [Bluebomb](bluebomb)           |
 |-----------------------|----------------------------|---------------------------|----------------------------|----------------------------------------|
-| Description           | Wii EULA Exploit           | Internet Channel exploit  | Wii Message Board exploit  | Broadcom's Bluetooth stack exploit     |
-| Internet Obligatoire     | Oui (DNS change required)  | Oui                       | Non                        | Non                                     |
+| Description           | Wii EULA Exploit           | Chaîne Internet exploit  | Tableau des messages Wii exploit  | Broadcom's Bluetooth stack exploit     |
+| Internet Obligatoire     | Oui (Modification DNS)  | Oui                       | Non                        | Non                                     |
 | Périphérique de stockage        | None                       | None                      | SD card required           | USB (top slot)                         |
-| Device Compatibility  | Wii                        | Wii                       | Wii on 4.3                 | Non Japanese or Korean Wii & Wii Mini  |
+| Device Compatibility  | Wii                        | Wii                       | Wii sur Version 4.3                 | Non Japanese or Korean Wii & Wii Mini  |
 | Autre exigence    | None                       | Chaîne Internet          | None                       | Linux Machine & Bluetooth              |
