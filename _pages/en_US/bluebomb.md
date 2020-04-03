@@ -9,7 +9,7 @@ If you need help with anything regarding this tutorial, please join [the Wii Min
 
 ![BlueBomb](/images/bluebomb.png)
 
-Bluebomb is an exploit made by [FullMetal5](https://github.com/Fullmetal5/bluebomb/releases) intended for Wii Mini Modding that takes advantage of an exploit in the Broadcom bluetooth stack inside the console. It's the only exploit that works on the Wii Mini but it can be used on the original Wii as well. It can also be used as brick recovery in case you haven't installed Priiloader and/or BootMii.
+Bluebomb is an exploit made by [FullMetal5](https://github.com/Fullmetal5/bluebomb/releases) intended for Wii Mini Modding that takes advantage of an exploit in the Broadcom bluetooth stack inside the console. It's the only exploit that works on the Wii Mini but it can be used on the original Wii as well. It can also be used as a brick recovery in case you haven't installed Priiloader and/or BootMii.
 
 For the Wii U's vWii & original Wii, we recommend using [another exploit](/get-started) instead if you intend to install the Homebrew Launcher and/or BootMii
 {: .notice--info}
@@ -38,7 +38,7 @@ This exploit will not work on a Wii U's vWii. Please use [another exploit](/get-
 # Terms to remember:
   **Region:** the area you bought your console in		
     PAL is a Wii sold in European territories		
-    NTSC-U is a Wii sold in American territories
+    NTSC-U is a Wii sold in American and Canadian territories
 		NTSC-J is a Wii sold in Japanese territories		
     NTSC-K is a Wii sold in Korean territories	
     If you are unsure of your Wii’s region, check a packaging, a game disc that works with your console or the label on the back of the console itself.	
