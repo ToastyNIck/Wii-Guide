@@ -3,8 +3,9 @@ title: "Bluebomb"
 ---
 
 {% include toc title="Sommaire" %}
-
-Le FlashHax est un exploit qui se fait pas la Chaîne Internet. Contrairement aux autres exploits, celui-ci n'as pas besoin de Carte SD.
+![BlueBomb](/images/bluebomb.png)
+Si tu besion d'aide tu peux contacter
+Le Bluebomb est un exploit qui se fait pas la Chaîne Internet. Contrairement aux autres exploits, celui-ci n'as pas besoin de Carte SD.
 
 #### Ce dont vous aurez besoin
 * Une Wii avec la ernière version installée (4.3)
