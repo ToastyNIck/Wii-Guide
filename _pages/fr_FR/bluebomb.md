@@ -37,7 +37,7 @@ Si vous n'êtes pas sûr, accédez aux paramètres Wii
 En haut à gauche, notez que votre numéro de version se termine par une lettre: U pour les consoles américaines, E pour les européennes, J pour les consoles japonaises et K pour les coréennes.
 
 𝗟𝗮 𝘀𝗶𝗴𝗻𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗱𝗲𝘀 𝗹𝗲𝘁𝘁𝗿𝗲𝘀
-U, J, K sont les consoles NTSC
+U, J, K sont les consoles NTSC. 
 E sont les consoles européennes
 #### Instructions
 
