@@ -128,9 +128,9 @@ In the red part insert your system version:
 		_NTSC for the NTSC-U Wii mini
     
 So, for example, if you have a European (PAL) v4.3 Wii console and you are performing the exploit on a x64 pc the command will be:
-./bluebomb-x64 ./stage0/WII_SM4_3U.bin stage1.bin
+`./bluebomb-x64 ./stage0/WII_SM4_3U.bin stage1.bin`
 another example: if you have an American Wii mini and are using a x86 pc to perform the exploit the command will be:
-./bluebomb-x86 ./stage0/MINI_SM_NTSC.bin stage1.bin
+`./bluebomb-x86 ./stage0/MINI_SM_NTSC.bin stage1.bin`
 Adjust the syntax of the command to fit your configuration.
 {: .notice--info}
 
@@ -181,3 +181,13 @@ Please note that neither CTGP nor RiiConnect24 work with the Wii Mini yet. Do **
 1. Add it to your Apps folder on your USB
 1. Run it in Homebrew.
 1. And you are set for life.
+
+Authors: 
+ToastyNick, CommandBlock6417, NightScript et. al.
+Special thanks to:
+* FullMetal5, for making the BlueBomb exploit
+* Leseratte, for making the Wii mini d2xl (l is for Leseratte) cIOS
+* Team Twiizers, for the HackMii installer and the Homebrew channel
+* davebaol, xabby666, XFlak and FIX94, for the d2x cIOS installer
+* ToastyNick, for the blue bomb logo and the guide on wii.guide
+* Last but not least, @everyone at the Wii Mini Hacking Discord server for helping on the writing of this guide and performing of the exploit.
