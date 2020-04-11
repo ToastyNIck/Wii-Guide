@@ -44,7 +44,7 @@ E sont les consoles européennes
 #### Instructions
 
 1. Telecharge les fichiers de (BootMii)[https://bootmii.org/download/]
-2. Mettez tous les fichiers du dossier dans l'archive que vous avez téléchargée sur votre clé USB.
+2. Mettez tous les fichiers du dossier dans l'archive que vous avez téléchargée sur votre clé USB et mis le clé USB dans ton Wii Mini.
 3. Ouvrez le site depuis les favoris. Cela va commencer le téléchargement de HackMii Installer. Cela devrait prendre un peu de temps.
 
 Si le HackMii Installer ne s'ouvre pas et la Wii se bloque (vous ne pouvez plus bouger votre curseur), Redémarrez la Wii et recommencez.
