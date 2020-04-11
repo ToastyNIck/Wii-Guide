@@ -1,5 +1,5 @@
 ---
-title: "Bluebomb"
+titre: "Bluebomb"
 ---
 {% include toc title="Sommaire" %}
 
